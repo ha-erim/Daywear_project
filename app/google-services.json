@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "987605264913",
+    "project_id": "daywear-2141d",
+    "storage_bucket": "daywear-2141d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987605264913:android:6cffb5b7df2f9781af9fb0",
+        "android_client_info": {
+          "package_name": "com.example.daywear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987605264913-7dmtgsrqov3l2rik49h4vl6aov6idq76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaB5zptNiD_OU2ncmP7D_waBIvBDNlN54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987605264913-7dmtgsrqov3l2rik49h4vl6aov6idq76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
